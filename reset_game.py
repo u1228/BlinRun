@@ -1,0 +1,1 @@
+open("other/first.txt", "w").close()
